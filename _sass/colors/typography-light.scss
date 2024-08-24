@@ -96,9 +96,9 @@
     --link-underline-color: rgb(219, 216, 216);
   }
 
-  .dark {
+  & {
     display: none;
-  }
+  }  
 
   /* Categories */
   --categories-border: rgba(0, 0, 0, 0.125);
