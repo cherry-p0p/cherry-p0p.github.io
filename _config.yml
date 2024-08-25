@@ -18,6 +18,8 @@ title: cherry-p0p's tech blog # the main titlec
 
 tagline: iOS Developer # it will display as the sub-title
 
+favicon: "/assets/img/favicons/favicon-16x16"
+
 description: >- # used by seo meta and the atom feed
   Write down what I learned
 
